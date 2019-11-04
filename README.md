@@ -2,6 +2,10 @@
 
 To run this project on any device run cli command `npm install` before compiling it. 
 
+# Project details
+
+This project is built using Angular 8.
+
 # NgCompleteGuideUpdate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
